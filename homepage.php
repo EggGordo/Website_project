@@ -1,6 +1,8 @@
 <?php
 session_start();
 if(isset($_SESSION['firstName'])) {
+//was doing this with an if statement right or was it overkill? 
+//intergrate the if into the body only? its the only changing value
 ?>
 <!DOCTYPE html>
 <html>
