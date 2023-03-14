@@ -6,12 +6,12 @@
 <link rel="stylesheet" ; type="text/css" ; href="style.css" ; />
 
 <body>
-    <h1><img src="Logo.png" height="128"><br><br>Login/Registration</h1>
+    <h1><img src="/Images/Logo.png" height="128"><br><br>Login/Registration</h1>
     <h2>
         <a href="/homepage.php">
             <button>Home</button>
         </a>
-        <a href="/store.html">
+        <a href="/store.php">
             <button>Store</button>
         </a>
         <a href="/cart.html">
