@@ -9,7 +9,7 @@
         <h2>
             <a href="/homepage.php">
                 <button>Home</button></a> 
-            <a href="/store.php">
+            <a href="/store.html">
                 <button >Store</button></a>
             <a href="/cart.html">
                 <button>Cart</button></a> 
